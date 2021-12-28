@@ -1,4 +1,4 @@
 # Holá, mundo
 Estudo de GitHub
 
-Aadicionando para teste.
+Adicionando para teste.
